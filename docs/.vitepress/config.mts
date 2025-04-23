@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 import taskLists from 'markdown-it-task-checkbox'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "温知文档",
-  description: "温知文档,温知笔记,欢迎使用温知系列产品！",
+  title: "小念温知博客",
+  description: "欢迎您的到来！",
   markdown: {
     config: (md) => {
       md.use(taskLists)
@@ -28,7 +28,8 @@ export default defineConfig({
     //页脚
     footer: {
       message: '',
-      copyright: 'Copyright ©WenzDoc 2024 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">xxxx</a>',  
+      //copyright: 'Copyright ©WenzDoc 2024 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">xxxx</a>', 
+      copyright: 'Copyright ©ahqiy001 2025', 
     },
   }
 })
