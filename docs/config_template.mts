@@ -23,7 +23,7 @@ export default defineConfig({
     nav: ['nav'],
     sidebar: ['sidebar'],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/lyming99/wenzdoc_web' }
+      { icon: 'github', link: 'https://github.com/ahqiy001/' }
     ],
     //页脚
     footer: {

@@ -23,7 +23,7 @@ export default defineConfig({
     nav: [{"text":"首页","link":"/"},{"text":"默认笔记","items":[{"text":"小念测试","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"}]}],
     sidebar: [{"text":"首页","link":"/"},{"text":"默认笔记","items":[{"text":"小念测试","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"}]}],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/lyming99/wenzdoc_web' }
+      { icon: 'github', link: 'https://github.com/ahqiy001/' }
     ],
     //页脚
     footer: {
